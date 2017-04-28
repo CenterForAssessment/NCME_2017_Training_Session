@@ -25,11 +25,14 @@ Lunch Break
 **Hour 5:** detailed instruction in setting up programs on their computers, accessing and using GitHub repositories and related tools; basics of setting up a module etc.
 
 * [Great Resource on Uncertainty](https://github.com/zonination/perceptions/blob/master/README.md)
+* [D3 Blocks](https://bl.ocks.org/)
 
 **Hour 6:** Basics of creating an interactive graphic almost “from scratch”; demonstration of core assessment literacy/measurement-related graphics; work through code and choices
 
 * [Interval probability of a normal distribution](https://bl.ocks.org/ctufts/73cad1cf91b1bf2ee8236ba8805ff420)
- 
+
 Following these example presentations we will take a coffee/juice break.
 
 **Hours 7 & 8:** Support participants in applying new knowledge and skills in the development of a portion of a module on their own.  Topic may be chosen by the participants or selected from a list of topics provided by the session organizers.
+
+* [Standard Error Module](https://dbetebenner.github.io/Modules_on_Standard_Error_of_Measurement/)
