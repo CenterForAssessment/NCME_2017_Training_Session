@@ -4,17 +4,20 @@ Repo containing materials for NCME 2017 Training Session on Assessment Literacy
 
 ## Organizers
 
-[Damian Betebenner](https://github.com/dbetebenner)
-[Charlie DePascale](https://github.com/cdepascale)
-[Luciana Cançado](https://github.com/cdepascale)
-[Kelli Ryan](https://github.com/kryan22)
-[Amy Sharp](https://github.com/Sharpa2)
+* [Damian Betebenner](https://github.com/dbetebenner)
+* [Charlie DePascale](https://github.com/cdepascale)
+* [Luciana Cançado](https://github.com/cdepascale)
+* [Kelli Ryan](https://github.com/kryan22)
+* [Amy Sharp](https://github.com/Sharpa2)
 
 ## Participants
 
-Casey Jones, Darin Kelberlau, Dan Lewis, Costanza Liborio
+* Casey Jones
+* Darin Kelberlau
+* Dan Lewis
+* Costanza Liborio
 
- 
+
 ## Schedule
 
 **Hours 1 & 2:** A brief overview describing the current state of assessment literacy,  defining the need for assessment literacy, and summarizing efforts underway to promote assessment literacy. To contextualize assessment literacy for users, we will introduce a framework for understanding assessment literacy with regard to different stakeholder groups and domains. [Presentation](content/Applying_a_Conceptual_Framework_for_Assessment_Literacy.pptx) [Paper](content/Applying_a_Conceptual_Framework_for_Assessment_Literacy.pdf)
