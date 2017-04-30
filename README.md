@@ -6,7 +6,7 @@ Repo containing materials for NCME 2017 Training Session on Assessment Literacy
 
 * [Damian Betebenner](https://github.com/dbetebenner)
 * [Charlie DePascale](https://github.com/cdepascale)
-* [Luciana Cançado](https://github.com/cdepascale)
+* [Luciana Cançado](https://github.com/lcancado)
 * [Kelli Ryan](https://github.com/kryan22)
 * [Amy Sharp](https://github.com/Sharpa2)
 
